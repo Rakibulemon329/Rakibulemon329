@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Emon
+### Hi there 👋, my name is Emon💁‍♂️
 #### I am studying CSE in BUBT 
 - 🌱 I’m currently learning C++ 
 
